@@ -115,4 +115,4 @@ It is not required that you develop the project exactly in this way. But if you 
 incrementally build and test your projects, they generally will be more difficult and take you longer to 
 do. I always recommend an incremental strategy, not just because it is easier, but also because it 
 allows the grader to give partial credit. If you hand in a program that can run and that meets some, but 
-not all, of the requirements, we can grade what you managed to get working. 
+not all, of the requirements, we can grade what you managed to get working
