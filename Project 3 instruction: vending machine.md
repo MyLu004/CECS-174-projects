@@ -13,7 +13,7 @@ one_dollar = 0
 five_dollar = 0
 
 
-
+#
 list = ['n', 'd', 'q', 'o', 'f', 'c']
 
 def print_statement():
